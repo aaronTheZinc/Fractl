@@ -1,0 +1,17 @@
+@font-face {
+    font-family: SairaLight;
+    src: url("../assets/fonts/Saira_SemiExpanded-Light.ttf");
+}
+
+@font-face {
+    font-family: SairaExtraBold;
+    src: url("../assets/fonts/Saira_SemiExpanded-ExtraBold.ttf");
+}
+
+
+.SairaLight {
+    font-family: SairaLight;
+}
+.SairaExtraBold {
+    font-family: SairaExtraBold;
+}
