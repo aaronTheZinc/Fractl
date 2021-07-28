@@ -8,10 +8,17 @@
     src: url("../assets/fonts/Saira_SemiExpanded-ExtraBold.ttf");
 }
 
+@font-face {
+    font-family: SairaMedium;
+    src: url("../assets/fonts/Saira_SemiExpanded-Medium.ttf");
+}
 
 .SairaLight {
     font-family: SairaLight;
 }
 .SairaExtraBold {
     font-family: SairaExtraBold;
+}
+.SairaMedium {
+    font-family: SairaMedium;
 }

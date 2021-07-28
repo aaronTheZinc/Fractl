@@ -14,7 +14,10 @@ module.exports = {
         },
         red: {
           negativeRed: "#CE3232"
-        }
+        },
+      },
+      borderRadius: {
+        px50: "50px"
       }
 
     },
@@ -22,5 +25,8 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar-hide')
+    // ...
+  ]
 }
